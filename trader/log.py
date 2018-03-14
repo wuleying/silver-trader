@@ -1,7 +1,7 @@
 # coding:utf8
 import logging
 
-log = logging.getLogger('easytrader')
+log = logging.getLogger('silver-trader')
 log.setLevel(logging.DEBUG)
 log.propagate = False
 
