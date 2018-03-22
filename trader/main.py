@@ -9,7 +9,7 @@ if sys.version_info[:2] < (3, 5):
 
 def main():
     quotation = easyquotation.use('sina')
-    data = quotation.real('162411')
+    data = quotation.real('000917')
     print(data)
 
 

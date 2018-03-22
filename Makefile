@@ -1,6 +1,6 @@
 PROJECT_NAME=silver-trader
-CUR_DIR=$(CURDIR)
 
+CUR_DIR=$(CURDIR)
 PYTHON_CMD=python
 
 all: run
